@@ -1,15 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Data;
+﻿using System.Data;
 using System.IO;
 
 namespace LEM2
 {
+    /// <summary>
+    /// Klasa pomocnicza.
+    /// </summary>
     class Toolbox
     {
+        /// <summary>
+        /// Zwraca dane z pliku CSV w postaci DataTable.
+        /// </summary>
+        /// <param name="strFilePath"></param>
+        /// <returns></returns>
         public static DataTable ConvertCSVtoDataTable(string strFilePath)
         {
             DataTable dt = new DataTable();
@@ -30,9 +33,7 @@ namespace LEM2
                     }
                     dt.Rows.Add(dr);
                 }
-
             }
-
 
             return dt;
         }

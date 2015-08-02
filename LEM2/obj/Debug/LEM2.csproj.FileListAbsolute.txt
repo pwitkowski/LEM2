@@ -7,3 +7,6 @@ c:\users\paweł witkowski\documents\visual studio 2015\Projects\LEM2\LEM2\obj\De
 c:\users\paweł witkowski\documents\visual studio 2015\Projects\LEM2\LEM2\obj\Debug\LEM2.csproj.GenerateResource.Cache
 c:\users\paweł witkowski\documents\visual studio 2015\Projects\LEM2\LEM2\obj\Debug\LEM2.exe
 c:\users\paweł witkowski\documents\visual studio 2015\Projects\LEM2\LEM2\obj\Debug\LEM2.pdb
+C:\Users\Paweł Witkowski\Documents\LEM2\LEM2\bin\Debug\LEM2.exe.config
+C:\Users\Paweł Witkowski\Documents\LEM2\LEM2\obj\Debug\LEM2.exe
+C:\Users\Paweł Witkowski\Documents\LEM2\LEM2\obj\Debug\LEM2.pdb
